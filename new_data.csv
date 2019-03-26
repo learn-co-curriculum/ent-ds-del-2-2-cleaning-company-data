@@ -1,56 +1,56 @@
-﻿CompanyName,StateIncorporated,NumberofEmployees,EntityType,,,,
-Ameren Corporation,Delaware,3000,C corp,,,,
-America West Holdings Corporation,Colorado,100,llc,,,,
-"American Axle & Manufacturing Holdings, Inc.",California,30,S corp,,,,
-"American Eagle Outfitters, Inc.",California,200,c corp,,,,
-"American Electric Power Company, Inc.",Delaware,5000,c corp,,,,
-American Express Company,Ca,2000,c corp,,,,
-"American Financial Group, Inc.",DE,300,c corp,,,,
-American Greetings Corporation,DE,150,LLC,,,,
-"American International Group, Inc.",CA,7500,llc,,,,
-American Standard Companies Inc.,Ca,4500,LLC,,,,
-"American Water Works Company, Inc.",Delaware,7000,C corp,,,,
-AmerisourceBergen Corporation,NY,2000,C corp,,,,
-"Ames Department Stores, Inc.",NY,100,C corp,,,,
-Amgen Inc.,NYC,2000,C corp,,,,
-"Amkor Technology, Inc.",New york,3000,S corp,,,,
-AMR Corporation,New York,500,s corp,,,,
-AmSouth Bancorp.,NEW YORK,6000,LLC,,,,
-"Amtran, Inc.",CA,8500,llc,,,,
-Anadarko Petroleum Corporation,Delaware,3000,C corp,,,,
-"Analog Devices, Inc.",Colorado,100,llc,,,,
-"Anheuser-Busch Companies, Inc.",California,30,S corp,,,,
-Anixter International Inc.,California,200,c corp,,,,
-AnnTaylor Inc.,Delaware,5000,c corp,,,,
-"Anthem, Inc.",Ca,2000,c corp,,,,
-AOL Time Warner Inc.,DE,300,c corp,,,,
-Aon Corporation,DE,150,LLC,,,,
-Apache Corporation,CA,7500,llc,,,,
-"Apple Computer, Inc.",Ca,4500,LLC,,,,
-Applera Corporation,Delaware,7000,C corp,,,,
-"Applied Industrial Technologies, Inc.",NY,2000,C corp,,,,
-"Applied Materials, Inc.",NY,100,C corp,,,,
-"Aquila, Inc.",NYC,2000,C corp,,,,
-ARAMARK Corporation,New york,3000,S corp,,,,
-"Arch Coal, Inc.",New York,500,s corp,,,,
-Archer Daniels Midland Company,NEW YORK,6000,LLC,,,,
-Arkansas Best Corporation,CA,8500,llc,,,,
-"Armstrong Holdings, Inc.",Delaware,3000,C corp,,,,
-"Arrow Electronics, Inc.",Colorado,100,llc,,,,
-"ArvinMeritor, Inc.",California,30,S corp,,,,
-Ashland Inc.,California,200,c corp,,,,
-Astoria Financial Corporation,Delaware,5000,c corp,,,,
-AT&T Corp.,Ca,2000,c corp,,,,
-Atmel Corporation,DE,300,c corp,,,,
-Atmos Energy Corporation,DE,150,LLC,,,,
-Audiovox Corporation,CA,7500,llc,,,,
-"Autoliv, Inc.",Ca,4500,LLC,,,,
-"Automatic Data Processing, Inc.",Delaware,7000,C corp,,,,
-"AutoNation, Inc.",NY,2000,C corp,,,,
-"AutoZone, Inc.",NY,100,C corp,,,,
-Avaya Inc.,NYC,2000,C corp,,,,
-Avery Dennison Corporation,New york,3000,S corp,,,,
-Avista Corporation,New York,500,s corp,,,,
-"Avnet, Inc.",NEW YORK,6000,LLC,,,,
-"Avon Products, Inc.",CA,8500,llc,,,,
-Baker Hughes Incorporated,NEW YORK,5000,llc,,,,
+﻿CompanyName,StateIncorporated,NumberofEmployees,EntityType
+Ameren Corporation,Delaware,3000,C corp
+America West Holdings Corporation,Colorado,100,llc
+"American Axle & Manufacturing Holdings, Inc.",California,30,S corp
+"American Eagle Outfitters, Inc.",California,200,c corp
+"American Electric Power Company, Inc.",Delaware,5000,c corp
+American Express Company,Ca,2000,c corp
+"American Financial Group, Inc.",DE,300,c corp
+American Greetings Corporation,DE,150,LLC
+"American International Group, Inc.",CA,7500,llc
+American Standard Companies Inc.,Ca,4500,LLC
+"American Water Works Company, Inc.",Delaware,7000,C corp
+AmerisourceBergen Corporation,NY,2000,C corp
+"Ames Department Stores, Inc.",NY,100,C corp
+Amgen Inc.,NYC,2000,C corp
+"Amkor Technology, Inc.",New york,3000,S corp
+AMR Corporation,New York,500,s corp
+AmSouth Bancorp.,NEW YORK,6000,LLC
+"Amtran, Inc.",CA,8500,llc
+Anadarko Petroleum Corporation,Delaware,3000,C corp
+"Analog Devices, Inc.",Colorado,100,llc
+"Anheuser-Busch Companies, Inc.",California,30,S corp
+Anixter International Inc.,California,200,c corp
+AnnTaylor Inc.,Delaware,5000,c corp
+"Anthem, Inc.",Ca,2000,c corp
+AOL Time Warner Inc.,DE,300,c corp
+Aon Corporation,DE,150,LLC
+Apache Corporation,CA,7500,llc
+"Apple Computer, Inc.",Ca,4500,LLC
+Applera Corporation,Delaware,7000,C corp
+"Applied Industrial Technologies, Inc.",NY,2000,C corp
+"Applied Materials, Inc.",NY,100,C corp
+"Aquila, Inc.",NYC,2000,C corp
+ARAMARK Corporation,New york,3000,S corp
+"Arch Coal, Inc.",New York,500,s corp
+Archer Daniels Midland Company,NEW YORK,6000,LLC
+Arkansas Best Corporation,CA,8500,llc
+"Armstrong Holdings, Inc.",Delaware,3000,C corp
+"Arrow Electronics, Inc.",Colorado,100,llc
+"ArvinMeritor, Inc.",California,30,S corp
+Ashland Inc.,California,200,c corp
+Astoria Financial Corporation,Delaware,5000,c corp
+AT&T Corp.,Ca,2000,c corp
+Atmel Corporation,DE,300,c corp
+Atmos Energy Corporation,DE,150,LLC
+Audiovox Corporation,CA,7500,llc
+"Autoliv, Inc.",Ca,4500,LLC
+"Automatic Data Processing, Inc.",Delaware,7000,C corp
+"AutoNation, Inc.",NY,2000,C corp
+"AutoZone, Inc.",NY,100,C corp
+Avaya Inc.,NYC,2000,C corp
+Avery Dennison Corporation,New york,3000,S corp
+Avista Corporation,New York,500,s corp
+"Avnet, Inc.",NEW YORK,6000,LLC
+"Avon Products, Inc.",CA,8500,llc
+Baker Hughes Incorporated,NEW YORK,5000,llc
